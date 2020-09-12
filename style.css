@@ -1,1 +1,8 @@
 /* This is your CSS file. You will use this file to style your HTML pages */
+
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
